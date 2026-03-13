@@ -34,8 +34,7 @@ The token creation process (mint creation, metadata, and setup) is documented in
 
 That repo demonstrates how to create an SPL token from scratch on Solana.
 
-
-
+![Coin Game Architecture](ciongame-workflow.png)
 
 ## Features
 
