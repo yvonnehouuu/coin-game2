@@ -249,6 +249,3 @@ Before using in production:
 
 Built from scratch as an experimental **Solana on-chain game with token rewards**.
 
-
-
-那种 README 一看就像 **Solana 项目级别开源库**。
